@@ -8,3 +8,4 @@ Hello! :wave:
 - :snake: I like Bash, Python, Perl, Linux
 - :crab: And rust
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=slaserx)](https://github.com/ryo-ma/github-profile-trophy)
