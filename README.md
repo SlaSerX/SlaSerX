@@ -3,8 +3,8 @@
 
 Hello! :wave:
 
-- :sunglasses: I'm Ivan
-- :house: I live in Bulgaria
+- :sunglasses: I'm SlaSerX
+- :house: I live in UK
 - :snake: I like Bash, Python, Perl, Linux
 - :crab: And rust
 
